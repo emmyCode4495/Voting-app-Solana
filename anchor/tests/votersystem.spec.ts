@@ -40,7 +40,7 @@ describe('votersystem', () => {
     expect(poll.pollId.toNumber()).toEqual(1);
     expect(poll.description).toEqual("Answer Anything");
     expect(poll.pollStart).toBeLessThan(poll.pollEnd.toNumber());
-    
-    
   });
+
+  
 });

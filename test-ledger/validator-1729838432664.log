@@ -1,0 +1,13 @@
+[0m[38;5;8m[[0m2024-10-25T06:40:32.667594000Z [0m[32mINFO [0m solana_test_validator[0m[38;5;8m][0m solana-validator 1.18.25 (src:30cf4f7a; feat:3241752014, client:SolanaLabs)
+[0m[38;5;8m[[0m2024-10-25T06:40:32.668120000Z [0m[32mINFO [0m solana_test_validator[0m[38;5;8m][0m Starting validator with: ArgsOs {
+        inner: [
+            "solana-test-validator",
+        ],
+    }
+[0m[38;5;8m[[0m2024-10-25T06:40:32.669167000Z [0m[33mWARN [0m solana_perf[0m[38;5;8m][0m CUDA is disabled
+[0m[38;5;8m[[0m2024-10-25T06:40:32.674105000Z [0m[32mINFO [0m solana_perf[0m[38;5;8m][0m AVX detected
+[0m[38;5;8m[[0m2024-10-25T06:40:32.674139000Z [0m[32mINFO [0m solana_perf[0m[38;5;8m][0m AVX2 detected
+[0m[38;5;8m[[0m2024-10-25T06:40:32.685750000Z [0m[32mINFO [0m solana_faucet::faucet[0m[38;5;8m][0m Faucet started. Listening on: 0.0.0.0:9900
+[0m[38;5;8m[[0m2024-10-25T06:40:32.685796000Z [0m[32mINFO [0m solana_faucet::faucet[0m[38;5;8m][0m Faucet account address: 4ykiQEYduSKsPUU1Cmg7iBvp1a41AJbmojDS4j17TRcq
+[0m[38;5;8m[[0m2024-10-25T06:40:32.688280000Z [0m[32mINFO [0m solana_validator::admin_rpc_service[0m[38;5;8m][0m started admin rpc service!
+[0m[38;5;8m[[0m2024-10-25T06:40:32.707489000Z [0m[32mINFO [0m solana_test_validator[0m[38;5;8m][0m Feature for 41tVp5qR1XwWRt5WifvtSQyuxtqQWJgEK8w91AtBqSwP deactivated
